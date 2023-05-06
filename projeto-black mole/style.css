@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  font-size: 62.5%;
+}
+
+body{
+  background-color: rgb(35, 35, 35);
+}
+
+.back{
+  width: 95vw;
+  height: 95vh;
+
+  margin: 17px auto;
+}
+
+.back img{
+  width: 95vw;
+  height: 95vh;
+}
+
